@@ -7,6 +7,7 @@
 - Contains biomedical voice measurements from people with and without Parkinson’s.
 - Includes features like:
   - MDVP:Fo(Hz), MDVP:Fhi(Hz), MDVP:Flo(Hz)
+  - Jitter, Shimmer
   - NHR, HNR
   - RPDE, DFA
   - Class (0: healthy, 1: Parkinson’s)
